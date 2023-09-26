@@ -1,4 +1,5 @@
 # myFirstRepo
+<p> New text added on Github. </p>
 Github exercise 2023
 ## Expected outcomes:
 *Below is what I expect to learn*
